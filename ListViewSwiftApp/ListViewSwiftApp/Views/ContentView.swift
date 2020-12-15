@@ -1,16 +1,15 @@
 //
 //  ContentView.swift
-//  ListViewSwiftApp
+//  LandmarksSwiftApp
 //
-//  Created by mac on 2020/12/12.
+//  Created by mac on 2020/12/14.
 //  Copyright © 2020 mac. All rights reserved.
 //
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        LandmarkList()
     }
 }
 
